@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T13:37:43.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="yK3VJcgBC3e5m8QYoqDL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T13:38:46.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="n4S7YEwUOqgtdQXGqTjY" version="22.1.16" type="github">
   <diagram name="Page-1" id="hCD2a95J2nHwVYwFRGq1">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n1zPl6138lG1n-rilKvN-1" value="CloudCore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n1zPl6138lG1n-rilKvN-2" value="CloudEdge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n1zPl6138lG1n-rilKvN-3" value="CloudEdge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n1zPl6138lG1n-rilKvN-4" value="CloudEdge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
