@@ -1,2 +1,2 @@
 # DiBucket
-A Diagram Bucket for blueprints, flowcharts and architectures
+A Diagram Bucket for blueprints, flowcharts and architectures mostly from draw.io
